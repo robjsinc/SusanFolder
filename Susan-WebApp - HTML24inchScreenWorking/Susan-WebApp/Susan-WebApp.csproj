@@ -1,0 +1,42 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <UserSecretsId>52a9ce6c-edbf-41b2-9b56-8bbe20141992</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\images\black-pin.png" />
+    <None Include="wwwroot\images\blue-pin.png" />
+    <None Include="wwwroot\images\cat.png" />
+    <None Include="wwwroot\images\cork-board.jpg" />
+    <None Include="wwwroot\images\dot.png" />
+    <None Include="wwwroot\images\equipment.PNG" />
+    <None Include="wwwroot\images\green-pin.png" />
+    <None Include="wwwroot\images\key-ring.png" />
+    <None Include="wwwroot\images\light-blue-pin.png" />
+    <None Include="wwwroot\images\light-green-pin.png" />
+    <None Include="wwwroot\images\map.PNG" />
+    <None Include="wwwroot\images\monster.PNG" />
+    <None Include="wwwroot\images\paper-portrait.png" />
+    <None Include="wwwroot\images\paper.png" />
+    <None Include="wwwroot\images\pink-pin.png" />
+    <None Include="wwwroot\images\purple-pin.png" />
+    <None Include="wwwroot\images\red-pin.jpg" />
+    <None Include="wwwroot\images\red-pin.png" />
+    <None Include="wwwroot\images\rose.png" />
+    <None Include="wwwroot\images\sew.png" />
+    <None Include="wwwroot\images\smiley-face.png" />
+    <None Include="wwwroot\images\susan.PNG" />
+    <None Include="wwwroot\images\torn-paper.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Images\" />
+  </ItemGroup>
+
+</Project>

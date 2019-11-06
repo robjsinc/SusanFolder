@@ -1,0 +1,72 @@
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.deps.json
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.runtimeconfig.json
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.dll
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.pdb
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.Views.dll
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.Views.pdb
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.AssemblyInfo.cs
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.TagHelpers.input.cache
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.TagHelpers.output.cache
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.Views.pdb
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.dll
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.pdb
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csproj.CopyComplete
+C:\Users\User\Desktop\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.deps.json
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.runtimeconfig.json
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.dll
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.pdb
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.Views.dll
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.Views.pdb
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.AssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.TagHelpers.input.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.TagHelpers.output.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.Views.pdb
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.dll
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.pdb
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csproj.CopyComplete
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.deps.json
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.runtimeconfig.json
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.runtimeconfig.dev.json
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.dll
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.pdb
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.Views.dll
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\bin\Release\netcoreapp2.1\Susan-WebApp.Views.pdb
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorAssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.AssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.TagHelpers.input.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.TagHelpers.output.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorCoreGenerate.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.Views.pdb
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.dll
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.pdb
+C:\Users\User\Desktop\SusanFolder\Susan-WebApp - HTML24inchScreenWorking\Susan-WebApp\obj\Release\netcoreapp2.1\Susan-WebApp.csproj.CopyComplete

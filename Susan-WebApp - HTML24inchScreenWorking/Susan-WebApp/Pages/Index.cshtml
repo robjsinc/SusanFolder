@@ -1,0 +1,444 @@
+﻿@page
+@{
+    ViewData["Title"] = "Sew Sew Su - Alterations & Repairs";
+}
+
+<html class="html">
+<head>
+    <meta content="width=device-width, initial-scale=1" name="viewport" />
+    <script src="~/js/site.js"></script>
+    <link href="~/css/site.css" rel="stylesheet" />
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link href="https://fonts.googleapis.com/css?family=Gloria+Hallelujah|Nanum+Pen+Script&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Pangolin&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Caveat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+</head>
+
+<body class="body">
+    <div id="webpage">
+
+        <div class="cork-board-container">
+            <img id="cork-board" src="~/images/cork-board.jpg">
+            <img id="red-pin" src="Images/red-pin.png">
+            <img id="purple-pin" src="Images/purple-pin.png">
+        </div>
+
+        <div id="top-title-container">
+            <table class="table">
+                <tr>
+                    <td class="rose-td"><img class="rose-1" src="Images/rose.png"></td>
+                    <td>
+                        <h1 id="top-title">Sew Sew Su</h1>
+                    </td>
+                    <td><img class="rose-2" src="Images/rose.png"></td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="bottom-title-container">
+            <div class="centre">
+                <table>
+                    <tr>
+                        <td>
+                            <img id="dot-1" src="Images/dot.png">
+                            <img id="dot-2" src="Images/dot.png">
+                            <img id="dot-3" src="Images/dot.png">
+                        </td>
+                        <td id="bottom-title">Alterations While you Shop</td>
+                        <td>
+                            <img id="sew-machine" src="Images/sew.png">
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+
+        <div>
+            <img id="light-green-pin" src="Images/light-green-pin.png">
+            <img id="paper" src="Images/paper.png">
+            <p id="find-me-here">I'm here, say hi:</p>
+            <p id="address">
+                <b>Address:</b><br />
+                Bury Market <br />
+                9 Wyndam Block <br />
+                1 Murray Rd<br />
+                Bury<br />
+                BL9 0BJ<br /><br />
+                <b>Opening Times:</b><br />
+                Wed - 9.00 -17.00<br />
+                Fri &nbsp;&nbsp;&nbsp;- 9.00 -17.00<br />
+                Sat &nbsp;&nbsp;- 9.00 -17.00 <br /><br /><br />
+                <b>Tel: 07814 265027</b>
+            </p>
+            <img id="map" src="Images/map.PNG">
+        </div>
+
+        <div>
+            <img id="pink-pin-2" src="Images/pink-pin.png">
+            <img id="paper-2" src="Images/paper.png">
+            <div id="shopping-list">
+                <table>
+                    <tr>
+                        <p class="shopping-list-title">Shopping list</p>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="shopping-list-p">Red thread</p>
+                        </td>
+                        <td>
+                            <p class="shopping-list-c">Cheese</p>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="shopping-list-bt">Blue thread</p>
+                        </td>
+                        <td>
+                            <p class="shopping-list-milk">Milk</p>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="shopping-list-gt">Green thread</p>
+                        </td>
+                        <td>
+                            <p class="shopping-list-lasagne">GORDONS</p>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="shopping-list-p">Big needles</p>
+                        </td>
+                        <td>
+                            <p class="shopping-list-rw">RED WINE</p>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="shopping-list-mn">Medium needles</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <p class="shopping-list-p-ln">Little needles</p>
+                        </td>
+                    </tr>
+                    <img id="monster" src="Images/monster.PNG">
+                </table>
+            </div>
+        </div>
+
+        <div>
+            <img id="green-pin-1" src="Images/green-pin.png">
+            <img id="torn-paper" src="Images/torn-paper.png">
+            <p class="introdution">
+                <u>draft introduction for website</u><br />
+                I started Sew Sew Su after moving to Manchester to enable my son to attend an excellent school. I still worked in Leeds though and travelled the
+                100 mile journey each day. Being a woman and not the best driver, this quickly became a hassle, every time I made a claim on my insurance they put
+                the price up!?!? So with advice from my friends and family I decided to use my passion for the femanine art of sewing and Sew Sew Su was born.
+                I have only occasionally looked back.
+            </p>
+        </div>
+
+        <div>
+            <img id="light-green-pin-1" src="Images/light-green-pin.png">
+            <img id="paper-portrait" src="Images/paper-portrait.png">
+            <img id="black-pin" src="Images/black-pin.png">
+            <p id="price-list">Price List</p>
+            <table class="price-list-table">
+                <tr>
+                    <th class="th">Trousers/Jeans</th>
+                    <th>FROM</th>
+                </tr>
+                <tr>
+                    <td>Shorten/Lengthen</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <td>Waist and Seat</td>
+                    <td>£12</td>
+                </tr>
+                <tr>
+                    <td>Renew Pocket</td>
+                    <td>£8</td>
+                </tr>
+                <tr>
+                    <th class="th">Shirts</th>
+                </tr>
+                <tr>
+                    <td>Taper</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <td>Shorten Sleeve</td>
+                    <td>£12</td>
+                </tr>
+                <tr>
+                    <td>Shorten Length</td>
+                    <td>£8</td>
+                </tr>
+                <tr>
+                    <th class="th">Childrens</th>
+                </tr>
+                <tr>
+                    <td>Dresses</td>
+                    <td>£6</td>
+                </tr>
+                <tr>
+                    <td>Trousers</td>
+                    <td>£6</td>
+                </tr>
+                <tr>
+                    <td>Patches</td>
+                    <td>£4.50</td>
+                </tr>
+                <tr>
+                    <th class="th">Zips</th>
+                </tr>
+                <tr>
+                    <td>Trousers</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <td>Jeans</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <td>Skirt</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <th class="th">Dresses/Skirts</th>
+                </tr>
+                <tr>
+                    <td>Shorten/Lengthen</td>
+                    <td>£9</td>
+                </tr>
+                <tr>
+                    <td>Shorten with Lining</td>
+                    <td>£12</td>
+                </tr>
+                <tr>
+                    <th class="th">Coats/Jackets</th>
+                </tr>
+                <tr>
+                    <td>Shorten Sleeves</td>
+                    <td>£12</td>
+                </tr>
+                <tr>
+                    <td>Shorten Length</td>
+                    <td>£18</td>
+                </tr>
+                <tr>
+                    <td><br /></td>
+                </tr>
+                <tr>
+                    <td><b class="services">OTHER SERVICES AVAILABLE</b></td>
+                </tr>
+                <tr>
+                    <td><b class="services">CALL OR POP IN FOR A QUOTE</b></td>
+                </tr>
+            </table>
+        </div>
+
+        <div id="fun-section">
+            <table>
+                <tr>
+                    <td><img id="polaroid" src="Images/polaroid.png"></td>
+
+                </tr>
+                <tr>
+                    <td><img id="light-blue-pin-polaroid" src="Images/light-blue-pin.png"></td>
+                    <td><img id="green-pin-polaroid" src="Images/green-pin.png"></td>
+                    <td><img id="purple-pin-polaroid" src="Images/purple-pin.png"></td>
+                    <td><img id="black-pin-polaroid" src="Images/black-pin.png"></td>
+                    <td><img id="red-pin-polaroid" src="Images/red-pin.png"></td>
+                    <td><img id="pink-pin-polaroid" src="Images/pink-pin.png"></td>
+                    <td><img id="blue-pin-polaroid-2" src="Images/blue-pin.png"></td>
+                </tr>
+                <tr>
+                    <td><img id="key-ring" src="Images/key-ring.png"></td>
+                    <td><img id="smiley" src="Images/smiley-face.png"></td>
+                </tr>
+            </table>
+        </div>
+
+        <div>
+            <img id="kitchenunits" src="~/images/kitchenunits.png" />
+            <img id="cat" src="~/images/cat.png" />
+            <img id="window" src="~/images/window.png" />
+            <img id="panrack" src="~/images/panrack.png" />
+        </div>
+
+    </div>
+
+
+    <div class="mobile">
+
+        <img class="wood" src="~/images/wood.PNG" />
+        <img class="board-snippet" src="~/images/board-snippet.PNG" />
+        <img class="board-snippet-1" src="~/images/board-snippet.PNG" />
+
+
+        <div class="yellow">
+            <table class="table">
+                <tr>
+                    <td class="td"><img class="mobile-rose-1" src="Images/rose.png"></td>
+                    <td class="td"><b class="mobile-tel">Tel: 07814 265027</b></td>
+                    <td class="td"><img class="mobile-rose-2" src="Images/rose.png" /></td>
+                </tr>
+                <tr>
+                    <td class="td"></td>
+                    <td class="td"><h1 id="mobile-top-title">Sew Sew Su</h1></td>
+                    <td class="td"></td>
+                </tr>
+                <tr>
+                    <td class="td">
+                        <img id="dot" src="~/images/dot.png" />
+                        <img id="dot-1" src="~/images/dot.png" />
+                        <img id="dot-2" src="~/images/dot.png" />
+                    </td>
+                    <td><h1 id="mobile-bottom-title">Alterations While you Shop</h1></td>
+                    <td><img id="sew-machine" src="Images/sew.png"></td>
+                </tr>
+            </table>
+        </div>
+
+        <div>
+            <img id="mobile-paper-portrait" src="Images/paper-portrait.png">
+            <img id="mobile-black-pin" src="Images/black-pin.png">
+            <p id="mobile-price-list">Price List</p>
+            <table class="mobile-price-list-table">
+                <tr>
+                    <th class="th">Trousers/Jeans</th>
+                    <th>FROM</th>
+                </tr>
+                <tr>
+                    <td>Shorten/Lengthen</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <td>Waist and Seat</td>
+                    <td>£12</td>
+                </tr>
+                <tr>
+                    <td>Renew Pocket</td>
+                    <td>£8</td>
+                </tr>
+                <tr>
+                    <th class="th">Shirts</th>
+                </tr>
+                <tr>
+                    <td>Taper</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <td>Shorten Sleeve</td>
+                    <td>£12</td>
+                </tr>
+                <tr>
+                    <td>Shorten Length</td>
+                    <td>£8</td>
+                </tr>
+                <tr>
+                    <th class="th">Childrens</th>
+                </tr>
+                <tr>
+                    <td>Dresses</td>
+                    <td>£6</td>
+                </tr>
+                <tr>
+                    <td>Trousers</td>
+                    <td>£6</td>
+                </tr>
+                <tr>
+                    <td>Patches</td>
+                    <td>£4.50</td>
+                </tr>
+                <tr>
+                    <th class="th">Zips</th>
+                </tr>
+                <tr>
+                    <td>Trousers</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <td>Jeans</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <td>Skirt</td>
+                    <td>£10</td>
+                </tr>
+                <tr>
+                    <th class="th">Dresses/Skirts</th>
+                </tr>
+                <tr>
+                    <td>Shorten/Lengthen</td>
+                    <td>£9</td>
+                </tr>
+                <tr>
+                    <td>Shorten with Lining</td>
+                    <td>£12</td>
+                </tr>
+                <tr>
+                    <th class="th">Coats/Jackets</th>
+                </tr>
+                <tr>
+                    <td>Shorten Sleeves</td>
+                    <td>£12</td>
+                </tr>
+                <tr>
+                    <td>Shorten Length</td>
+                    <td>£18</td>
+                </tr>
+                <tr>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td><b class="services">OTHER SERVICES AVAILABLE</b></td>
+                </tr>
+                <tr>
+                    <td><b class="services">CALL OR POP IN FOR A QUOTE</b></td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="bottom-paper">
+            <img id="mobile-light-green-pin" src="Images/light-green-pin.png">
+            <img id="mobile-paper" src="Images/paper-portrait.png">
+            <p id="mobile-find-me-here">I'm here, say hi:</p>
+            <p id="mobile-address">
+                <b>Address:</b><br />
+                Bury Market <br />
+                9 Wyndam Block <br />
+                1 Murray Rd<br />
+                Bury<br />
+                BL9 0BJ<br />
+                <b>Opening Times:</b><br />
+                Wed - 9.00 -17.00<br />
+                Fri &nbsp;&nbsp;&nbsp;- 9.00 -17.00<br />
+                Sat &nbsp;&nbsp;- 9.00 -17.00 <br />
+                <b>Tel: 07814 265027</b>
+            </p>
+            <iframe id="mobile-map" align="middle" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2368.1380166481445!2d-2.2973649840164163!3d53.59099896405839!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x487ba4dc11c3358f%3A0xdca81e51b3a71737!2sSew%20Sew%20Su%20Alterations%20%26%20Repairs!5e0!3m2!1sen!2suk!4v1571778386544!5m2!1sen!2suk" width="150" height="150" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+        </div>
+
+        <img class="wood-1" src="~/images/wood.PNG" />
+        <img id="mobile-cat" src="~/images/cat.png" />
+    </div>
+
+
+</body>
+</html>
+
+

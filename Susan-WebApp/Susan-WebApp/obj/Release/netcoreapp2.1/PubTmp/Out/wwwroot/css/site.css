@@ -1,0 +1,128 @@
+
+.html {
+    height: 10%;
+
+}
+
+.body {
+    width: 2000px;
+    margin: 0 auto;
+    background-color: peachpuff;
+    height: 100%;
+
+}
+
+
+#container {
+    height: 100%;
+    width: 4000px;
+    position: relative;
+    left: -1000px;
+    background-color: peachpuff;
+
+}
+
+#sewsewsu{
+    height:1100px;
+    position:relative;
+    left:-200px;
+}
+
+
+#kitchenunits {
+    position:relative;
+    height:1060px;
+    top:70px;    
+}
+
+#cat {
+    position: relative;
+    top:450px;
+    height: 500px;
+    z-index:10;
+    left:80px;
+}
+
+#window {
+    position: relative;
+    height: 1000px;
+    left:200px;
+}
+
+#panrack {
+    position: relative;
+    top:100px;
+    left:-240px;
+    height:800px;
+}
+
+.navbar {
+    visibility: hidden;
+}
+
+/*
+@media screen and (max-width: 1365px) {
+
+    #container {
+        margin: 0 auto;
+        max-width: 1024px;
+        min-width: 1024px;
+    }
+    .navbar {
+        visibility:hidden;    
+    }
+    .body {
+        max-height:1024px;
+    }
+
+}
+
+@media screen and (max-width: 1023px) {
+
+    #container {
+        margin: 0 auto;
+        max-width: 768px;
+        min-width: 768px;
+    }
+    .navbar {
+        visibility: hidden;
+    }
+}
+
+@media screen and (max-width: 768px) {
+
+    #container {
+        margin: 0 auto;
+        max-width: 376px;
+        min-width: 376px;
+    }
+
+    .navbar {
+        visibility: hidden;
+    }
+}
+
+@media screen and (max-width: 375px) {
+    #container {
+        visibility: hidden;
+        border: 10px solid red;
+        max-height: 10000px;
+    }
+    .body {
+        border: 10px solid red;
+        max-height: 10000px;
+    }
+    .navbar {
+        position: absolute;
+        top: -7750px;
+        background-color: yellow;
+        visibility: visible;
+    }
+
+}
+
+
+    */
+
+
+
